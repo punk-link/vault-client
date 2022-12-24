@@ -13,3 +13,16 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+# Go workspace file
+go.work
+
+# Config files
+bin/
+
+# Visual Studio Code
+.vscode/
+
+app.env
+.env
+*.env
